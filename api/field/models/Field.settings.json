@@ -1,0 +1,24 @@
+{
+  "connection": "default",
+  "collectionName": "fields",
+  "info": {
+    "name": "field",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": [
+      "created_at",
+      "updated_at"
+    ],
+    "comment": ""
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "text"
+    }
+  }
+}

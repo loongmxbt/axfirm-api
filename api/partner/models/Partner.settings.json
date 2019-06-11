@@ -1,0 +1,34 @@
+{
+  "connection": "default",
+  "collectionName": "partners",
+  "info": {
+    "name": "partner",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    },
+    "locale": {
+      "enum": [
+        "zh",
+        "en",
+        "ja"
+      ],
+      "type": "enumeration"
+    },
+    "image": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload"
+    }
+  }
+}

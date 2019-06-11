@@ -1,0 +1,40 @@
+{
+  "connection": "default",
+  "collectionName": "posts",
+  "info": {
+    "name": "post",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": [
+      "created_at",
+      "updated_at"
+    ],
+    "comment": ""
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "category": {
+      "enum": [
+        "新闻",
+        "案例",
+        "未分类"
+      ],
+      "type": "enumeration"
+    },
+    "content": {
+      "type": "text"
+    },
+    "locale": {
+      "enum": [
+        "zh",
+        "en",
+        "ja"
+      ],
+      "type": "enumeration"
+    }
+  }
+}
