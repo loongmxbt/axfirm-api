@@ -22,17 +22,17 @@
       "type": "string",
       "required": true
     },
-    "content": {
-      "type": "text"
-    },
     "locale": {
       "default": "zh",
       "enum": [
         "zh",
         "en",
-        "jp"
+        "ja"
       ],
       "type": "enumeration"
+    },
+    "content": {
+      "type": "text"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "connection": "default",
-  "collectionName": "fields",
+  "collectionName": "cards",
   "info": {
-    "name": "field",
+    "name": "card",
     "description": ""
   },
   "options": {
@@ -14,10 +14,21 @@
     "comment": ""
   },
   "attributes": {
-    "name": {
+    "title": {
       "type": "string"
     },
-    "desc": {
+    "slug": {
+      "type": "string"
+    },
+    "locale": {
+      "enum": [
+        "zh",
+        "en",
+        "ja"
+      ],
+      "type": "enumeration"
+    },
+    "content": {
       "type": "text"
     }
   }

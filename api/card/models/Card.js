@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Lifecycle callbacks for the `Field` model.
+ * Lifecycle callbacks for the `Card` model.
  */
 
 module.exports = {

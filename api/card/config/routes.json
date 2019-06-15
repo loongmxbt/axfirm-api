@@ -2,48 +2,48 @@
   "routes": [
     {
       "method": "GET",
-      "path": "/fields",
-      "handler": "Field.find",
+      "path": "/cards",
+      "handler": "Card.find",
       "config": {
         "policies": []
       }
     },
     {
       "method": "GET",
-      "path": "/fields/count",
-      "handler": "Field.count",
+      "path": "/cards/count",
+      "handler": "Card.count",
       "config": {
         "policies": []
       }
     },
     {
       "method": "GET",
-      "path": "/fields/:id",
-      "handler": "Field.findOne",
+      "path": "/cards/:id",
+      "handler": "Card.findOne",
       "config": {
         "policies": []
       }
     },
     {
       "method": "POST",
-      "path": "/fields",
-      "handler": "Field.create",
+      "path": "/cards",
+      "handler": "Card.create",
       "config": {
         "policies": []
       }
     },
     {
       "method": "PUT",
-      "path": "/fields/:id",
-      "handler": "Field.update",
+      "path": "/cards/:id",
+      "handler": "Card.update",
       "config": {
         "policies": []
       }
     },
     {
       "method": "DELETE",
-      "path": "/fields/:id",
-      "handler": "Field.delete",
+      "path": "/cards/:id",
+      "handler": "Card.delete",
       "config": {
         "policies": []
       }

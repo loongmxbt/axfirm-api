@@ -25,9 +25,6 @@
       ],
       "type": "enumeration"
     },
-    "content": {
-      "type": "text"
-    },
     "locale": {
       "enum": [
         "zh",
@@ -35,6 +32,9 @@
         "ja"
       ],
       "type": "enumeration"
+    },
+    "content": {
+      "type": "text"
     }
   }
 }

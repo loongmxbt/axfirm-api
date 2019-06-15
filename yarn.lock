@@ -8054,9 +8054,9 @@ stdout-stream@^1.4.0:
   dependencies:
     readable-stream "^2.0.1"
 
-strapi-admin@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-admin/download/strapi-admin-3.0.0-beta.2.tgz#65aae37978fb16b6b6b4f8dda179bf01272c16a1"
+strapi-admin@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-admin/download/strapi-admin-3.0.0-beta.5.tgz#6dd19a6e00639227e96d69159942b1c28074e1ec"
   dependencies:
     "@babel/core" "^7.4.3"
     "@babel/plugin-proposal-async-generator-functions" "^7.2.0"
@@ -8119,8 +8119,8 @@ strapi-admin@3.0.0-beta.2:
     sanitize.css "^4.1.0"
     sass-loader "^7.1.0"
     shelljs "^0.7.8"
-    strapi-helper-plugin "3.0.0-beta.2"
-    strapi-utils "3.0.0-beta.2"
+    strapi-helper-plugin "3.0.0-beta.5"
+    strapi-utils "3.0.0-beta.5"
     style-loader "^0.23.1"
     styled-components "^4.2.0"
     terser-webpack-plugin "^1.2.3"
@@ -8129,29 +8129,29 @@ strapi-admin@3.0.0-beta.2:
     webpack "^4.29.6"
     webpackbar "^3.2.0"
 
-strapi-generate-api@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-generate-api/download/strapi-generate-api-3.0.0-beta.2.tgz#8be62e5ca317ec0d460201e12129b5199e8a3345"
+strapi-generate-api@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-generate-api/download/strapi-generate-api-3.0.0-beta.5.tgz#eb7a246a384e1c734018d428654bbab24a358cbd"
   dependencies:
     lodash "^4.17.11"
     pluralize "^7.0.0"
 
-strapi-generate-controller@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-generate-controller/download/strapi-generate-controller-3.0.0-beta.2.tgz#31277828e5d7756e8c44feb13ad0473fca02ad41"
+strapi-generate-controller@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-generate-controller/download/strapi-generate-controller-3.0.0-beta.5.tgz#c356549cd89f40b4a760279c8d34816cfcc498f6"
   dependencies:
     lodash "^4.17.11"
 
-strapi-generate-model@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-generate-model/download/strapi-generate-model-3.0.0-beta.2.tgz#f673b4abaaaa26035b419a5a3a836d59ed13b858"
+strapi-generate-model@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-generate-model/download/strapi-generate-model-3.0.0-beta.5.tgz#b46cc5885b3059f93bace4776200505d010639c5"
   dependencies:
     lodash "^4.17.11"
     pluralize "^7.0.0"
 
-strapi-generate-new@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-generate-new/download/strapi-generate-new-3.0.0-beta.2.tgz#f91826e65c1a7dcadb2b60f338635343eb5e70df"
+strapi-generate-new@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-generate-new/download/strapi-generate-new-3.0.0-beta.5.tgz#9d1217be603dcbc5832c75b012a291c702d7209e"
   dependencies:
     execa "^1.0.0"
     fs-extra "^8.0.1"
@@ -8164,38 +8164,38 @@ strapi-generate-new@3.0.0-beta.2:
     rimraf "^2.6.3"
     uuid "^3.3.2"
 
-strapi-generate-plugin@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-generate-plugin/download/strapi-generate-plugin-3.0.0-beta.2.tgz#0e9cd26ce3302ab5de09304567470144a7751558"
+strapi-generate-plugin@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-generate-plugin/download/strapi-generate-plugin-3.0.0-beta.5.tgz#4a182f12b20018dedd554184e42f7208a45cad99"
   dependencies:
     fs-extra "^8.0.1"
     lodash "^4.17.11"
 
-strapi-generate-policy@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-generate-policy/download/strapi-generate-policy-3.0.0-beta.2.tgz#bba7349e2eab135ede837c1b1d38e8d4df5a7d4c"
+strapi-generate-policy@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-generate-policy/download/strapi-generate-policy-3.0.0-beta.5.tgz#c1ac21165a4951979f2132079e2eca74d2e62526"
   dependencies:
     lodash "^4.17.11"
 
-strapi-generate-service@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-generate-service/download/strapi-generate-service-3.0.0-beta.2.tgz#8b3f16a07aaccea34031bb1a48451bebd9a9b19f"
+strapi-generate-service@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-generate-service/download/strapi-generate-service-3.0.0-beta.5.tgz#cb12de03b00e7d9c472ecbddf7c54de6b1977206"
   dependencies:
     lodash "^4.17.11"
 
-strapi-generate@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-generate/download/strapi-generate-3.0.0-beta.2.tgz#dffc7b3389356dc5437cf262ed39eefb15974264"
+strapi-generate@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-generate/download/strapi-generate-3.0.0-beta.5.tgz#65a77b87ac7bda2cccfa1455c6d1d916afaa4324"
   dependencies:
     async "^2.6.2"
     fs-extra "^8.0.1"
     lodash "^4.17.11"
     reportback "^2.0.2"
-    strapi-utils "3.0.0-beta.2"
+    strapi-utils "3.0.0-beta.5"
 
-strapi-helper-plugin@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-helper-plugin/download/strapi-helper-plugin-3.0.0-beta.2.tgz#3ae8ae72cb017c8fea29eea5f5600c1a22905ca7"
+strapi-helper-plugin@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-helper-plugin/download/strapi-helper-plugin-3.0.0-beta.5.tgz#1f7860516b6ac0f24902efc2a2fba57a90b9e099"
   dependencies:
     bootstrap "^4.0.0-alpha.6"
     classnames "^2.2.5"
@@ -8212,28 +8212,28 @@ strapi-helper-plugin@3.0.0-beta.2:
     reactstrap "^5.0.0"
     whatwg-fetch "^2.0.3"
 
-strapi-hook-bookshelf@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-hook-bookshelf/download/strapi-hook-bookshelf-3.0.0-beta.2.tgz#bbaec9cd1374661a65a5b9767a74a6fce62a8a1b"
+strapi-hook-bookshelf@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-hook-bookshelf/download/strapi-hook-bookshelf-3.0.0-beta.5.tgz#513fcc7762fd4381e5c428ae5aeb7be8803fba46"
   dependencies:
     bookshelf "^0.14.2"
     inquirer "^6.3.1"
     lodash "^4.17.11"
     pluralize "^7.0.0"
     rimraf "^2.6.3"
-    strapi-hook-knex "3.0.0-beta.2"
-    strapi-utils "3.0.0-beta.2"
+    strapi-hook-knex "3.0.0-beta.5"
+    strapi-utils "3.0.0-beta.5"
 
-strapi-hook-knex@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-hook-knex/download/strapi-hook-knex-3.0.0-beta.2.tgz#5e34ff1c99db69b44a71fb5aafcb27f7ad82396d"
+strapi-hook-knex@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-hook-knex/download/strapi-hook-knex-3.0.0-beta.5.tgz#eb1a6df59b9fc222239e18179bb77dd2e6db36cb"
   dependencies:
     knex "^0.16.5"
     lodash "^4.17.11"
 
-strapi-plugin-content-manager@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-plugin-content-manager/download/strapi-plugin-content-manager-3.0.0-beta.2.tgz#ce8461f14293de7df79b8a01f427b722af43c4f8"
+strapi-plugin-content-manager@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-plugin-content-manager/download/strapi-plugin-content-manager-3.0.0-beta.5.tgz#664ee1ed71aee226f00a98c1a6ceba758c92fbc0"
   dependencies:
     classnames "^2.2.6"
     codemirror "^5.46.0"
@@ -8255,13 +8255,13 @@ strapi-plugin-content-manager@3.0.0-beta.2:
     redux-immutable "^4.0.0"
     reselect "^3.0.1"
     showdown "^1.9.0"
-    strapi-helper-plugin "3.0.0-beta.2"
-    strapi-utils "3.0.0-beta.2"
+    strapi-helper-plugin "3.0.0-beta.5"
+    strapi-utils "3.0.0-beta.5"
     styled-components "^4.2.0"
 
-strapi-plugin-content-type-builder@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-plugin-content-type-builder/download/strapi-plugin-content-type-builder-3.0.0-beta.2.tgz#30c634786a2b3e88c69294b587c441b60a342947"
+strapi-plugin-content-type-builder@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-plugin-content-type-builder/download/strapi-plugin-content-type-builder-3.0.0-beta.5.tgz#e02b5eb4582883a8d2a5eb3e96e77234f3fb37bf"
   dependencies:
     classnames "^2.2.6"
     fs-extra "^7.0.0"
@@ -8280,20 +8280,20 @@ strapi-plugin-content-type-builder@3.0.0-beta.2:
     redux "^4.0.1"
     redux-immutable "^4.0.0"
     reselect "^3.0.1"
-    strapi-generate "3.0.0-beta.2"
-    strapi-generate-api "3.0.0-beta.2"
-    strapi-helper-plugin "3.0.0-beta.2"
+    strapi-generate "3.0.0-beta.5"
+    strapi-generate-api "3.0.0-beta.5"
+    strapi-helper-plugin "3.0.0-beta.5"
 
-strapi-plugin-email@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-plugin-email/download/strapi-plugin-email-3.0.0-beta.2.tgz#0d0a4b71fc1818b71142e8278b3d26fd60b3c727"
+strapi-plugin-email@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-plugin-email/download/strapi-plugin-email-3.0.0-beta.5.tgz#c82013b2617c04b6c662ac0c478c9b278efc0a82"
   dependencies:
-    strapi-provider-email-sendmail "3.0.0-beta.2"
-    strapi-utils "3.0.0-beta.2"
+    strapi-provider-email-sendmail "3.0.0-beta.5"
+    strapi-utils "3.0.0-beta.5"
 
-strapi-plugin-settings-manager@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-plugin-settings-manager/download/strapi-plugin-settings-manager-3.0.0-beta.2.tgz#5570e410e2f36739ece94d0e8b34d9a2ce86d102"
+strapi-plugin-settings-manager@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-plugin-settings-manager/download/strapi-plugin-settings-manager-3.0.0-beta.5.tgz#e2f3c160bca32fb53e0b776bf4920ac22f508dfd"
   dependencies:
     classnames "^2.2.6"
     immutable "^3.8.2"
@@ -8311,11 +8311,11 @@ strapi-plugin-settings-manager@3.0.0-beta.2:
     redux "^4.0.1"
     reselect "^3.0.1"
     shelljs "^0.7.8"
-    strapi-helper-plugin "3.0.0-beta.2"
+    strapi-helper-plugin "3.0.0-beta.5"
 
-strapi-plugin-upload@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-plugin-upload/download/strapi-plugin-upload-3.0.0-beta.2.tgz#ba4a566d2900df8a236c455df5df1c307b0583fa"
+strapi-plugin-upload@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-plugin-upload/download/strapi-plugin-upload-3.0.0-beta.5.tgz#6badfc5563dff05ad75df22561bbd338d5e677b1"
   dependencies:
     immutable "^3.8.2"
     invariant "^2.2.1"
@@ -8329,15 +8329,15 @@ strapi-plugin-upload@3.0.0-beta.2:
     react-router-dom "^5.0.0"
     react-transition-group "^2.5.0"
     reactstrap "^5.0.0"
-    strapi-helper-plugin "3.0.0-beta.2"
-    strapi-provider-upload-local "3.0.0-beta.2"
-    strapi-utils "3.0.0-beta.2"
+    strapi-helper-plugin "3.0.0-beta.5"
+    strapi-provider-upload-local "3.0.0-beta.5"
+    strapi-utils "3.0.0-beta.5"
     stream-to-array "^2.3.0"
     uuid "^3.2.1"
 
-strapi-plugin-users-permissions@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-plugin-users-permissions/download/strapi-plugin-users-permissions-3.0.0-beta.2.tgz#79cc81be859443d8df6886ae845bd0a8ef103281"
+strapi-plugin-users-permissions@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-plugin-users-permissions/download/strapi-plugin-users-permissions-3.0.0-beta.5.tgz#6eb914c550442425639790a1de41c23ed6dce117"
   dependencies:
     bcryptjs "^2.4.3"
     classnames "^2.2.6"
@@ -8345,7 +8345,7 @@ strapi-plugin-users-permissions@3.0.0-beta.2:
     immutable "^3.8.2"
     invariant "^2.2.1"
     jsonwebtoken "^8.1.0"
-    koa "^2.1.0"
+    koa-compose "^4.0.0"
     koa2-ratelimit "^0.6.1"
     lodash "^4.17.11"
     purest "^2.0.1"
@@ -8359,23 +8359,23 @@ strapi-plugin-users-permissions@3.0.0-beta.2:
     reactstrap "^5.0.0"
     redux-saga "^0.16.0"
     request "^2.83.0"
-    strapi-helper-plugin "3.0.0-beta.2"
-    strapi-utils "3.0.0-beta.2"
+    strapi-helper-plugin "3.0.0-beta.5"
+    strapi-utils "3.0.0-beta.5"
     uuid "^3.1.0"
 
-strapi-provider-email-sendmail@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-provider-email-sendmail/download/strapi-provider-email-sendmail-3.0.0-beta.2.tgz#00baa158f4904b62a2ac5e3272493bc9bb016a91"
+strapi-provider-email-sendmail@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-provider-email-sendmail/download/strapi-provider-email-sendmail-3.0.0-beta.5.tgz#f4441417e09ebe9f3ee08ef5ce505b0982209b79"
   dependencies:
     sendmail "^1.2.0"
 
-strapi-provider-upload-local@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-provider-upload-local/download/strapi-provider-upload-local-3.0.0-beta.2.tgz#a6af54cd2f5afd4a95e7e25015da2e326a3fcafd"
+strapi-provider-upload-local@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-provider-upload-local/download/strapi-provider-upload-local-3.0.0-beta.5.tgz#e17461fdb40809b1678795adec5940076074c9b7"
 
-strapi-utils@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi-utils/download/strapi-utils-3.0.0-beta.2.tgz#fe83a9a6f9c705260fc1b6eb78124bdc2b50572f"
+strapi-utils@3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi-utils/download/strapi-utils-3.0.0-beta.5.tgz#d0d053ae5894fce589c7b5f485304e8ba57b1914"
   dependencies:
     commander "^2.20.0"
     joi-json "^2.1.0"
@@ -8385,9 +8385,9 @@ strapi-utils@3.0.0-beta.2:
     pluralize "^7.0.0"
     shelljs "^0.8.3"
 
-strapi@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.npm.taobao.org/strapi/download/strapi-3.0.0-beta.2.tgz#8d6bf0e96394e76a95ea7a3fb6822c43192f31fc"
+strapi@^3.0.0-beta.5:
+  version "3.0.0-beta.5"
+  resolved "https://registry.npm.taobao.org/strapi/download/strapi-3.0.0-beta.5.tgz#c7f7d2e64fce341f4100322b7965ee42bec560b4"
   dependencies:
     async "^2.1.2"
     boom "^5.2.0"
@@ -8423,16 +8423,15 @@ strapi@3.0.0-beta.2:
     resolve-cwd "^3.0.0"
     rimraf "^2.6.2"
     shelljs "^0.8.3"
-    strapi-admin "3.0.0-beta.2"
-    strapi-generate "3.0.0-beta.2"
-    strapi-generate-api "3.0.0-beta.2"
-    strapi-generate-controller "3.0.0-beta.2"
-    strapi-generate-model "3.0.0-beta.2"
-    strapi-generate-new "3.0.0-beta.2"
-    strapi-generate-plugin "3.0.0-beta.2"
-    strapi-generate-policy "3.0.0-beta.2"
-    strapi-generate-service "3.0.0-beta.2"
-    strapi-utils "3.0.0-beta.2"
+    strapi-generate "3.0.0-beta.5"
+    strapi-generate-api "3.0.0-beta.5"
+    strapi-generate-controller "3.0.0-beta.5"
+    strapi-generate-model "3.0.0-beta.5"
+    strapi-generate-new "3.0.0-beta.5"
+    strapi-generate-plugin "3.0.0-beta.5"
+    strapi-generate-policy "3.0.0-beta.5"
+    strapi-generate-service "3.0.0-beta.5"
+    strapi-utils "3.0.0-beta.5"
 
 stream-browserify@^2.0.1:
   version "2.0.2"
